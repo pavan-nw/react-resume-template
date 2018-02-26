@@ -6,7 +6,7 @@
       "An enterprise developer with 4 years of experience in designing and developing enterprise application with Core Java, Node JS, React JS, Android.",
     "image": "profilepic.jpg",
     "bio":
-      "I am enthusiastic team player, having decent skills in problem solving, object oriented design, core java, node js and other web technologies. Familar with Retail and Optical Networking domain as well",
+      "I am an enthusiastic team player, having decent skills in problem solving, object oriented design, core java, node js and other web technologies. Familar with Retail and Optical Networking domain as well",
     "contactmessage":
       "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "pavansdoc@gmail.com",
@@ -18,7 +18,8 @@
       "zip": "560037"
     },
     "website": "http://pavan-nw.github.io",
-    "resumedownload": "/images/Pavan.pdf",
+    "resumedownload":
+      "https://drive.google.com/open?id=1rwx8qkJJgh3Yva-5zGSXDV_QUcLQvtGc",
     "social": [
       {
         "name": "twitter",
@@ -45,14 +46,14 @@
         "degree": "Master of Technology in Computer Science",
         "graduated": "June 2014",
         "description":
-          "Got admitted MIT, Manipal by qualifying in GATE 2012, and graducated with 9.29 CGPA for university"
+          "Got admitted to MIT, Manipal by qualifying in GATE 2012, and graducated with 9.29 CGPA for university"
       },
       {
         "school": "Basaveshwar Engineering College, Bagalkot",
         "degree": "Bachelor of Engineering in Computer Science",
         "graduated": "June 2012",
         "description":
-          "Got admitted BEC, Bagalkot by CET rank 1787 in 2008, and graducated with 9.34 CGPA for college"
+          "Got admitted to BEC, Bagalkot by CET rank 1787 in 2008, and graducated with 9.34 CGPA for college"
       }
     ],
     "work": [
